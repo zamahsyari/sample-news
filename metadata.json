@@ -1,0 +1,6 @@
+{
+  "name": "The Meridian",
+  "description": "Independent long-form journalism, visual photo essays, interactive civic polls, and infrastructure reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
